@@ -1,0 +1,31 @@
+﻿  Array.c
+  bool.c
+  char.c
+  pointer.c
+C:\Users\heongyu\Desktop\정보 처리기사 실기 준비\c-lang\c-lang\Array.c(5,5): error C2374: 'intArray': 재정의. 여러 번 초기화했습니다.
+      C:\Users\heongyu\Desktop\정보 처리기사 실기 준비\c-lang\c-lang\Array.c(4,5):
+      'intArray' 선언을 참조하십시오.
+  
+C:\Users\heongyu\Desktop\정보 처리기사 실기 준비\c-lang\c-lang\Array.c(9,6): error C2374: 'charArray': 재정의. 여러 번 초기화했습니다.
+      C:\Users\heongyu\Desktop\정보 처리기사 실기 준비\c-lang\c-lang\Array.c(8,6):
+      'charArray' 선언을 참조하십시오.
+  
+C:\Users\heongyu\Desktop\정보 처리기사 실기 준비\c-lang\c-lang\Array.c(12,23): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\heongyu\Desktop\정보 처리기사 실기 준비\c-lang\c-lang\Array.c(12,28): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\heongyu\Desktop\정보 처리기사 실기 준비\c-lang\c-lang\Array.c(12,33): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\heongyu\Desktop\정보 처리기사 실기 준비\c-lang\c-lang\Array.c(12,38): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\heongyu\Desktop\정보 처리기사 실기 준비\c-lang\c-lang\Array.c(13,7): error C2369: 'floatArray': 재정의. 첨자가 다릅니다.
+      C:\Users\heongyu\Desktop\정보 처리기사 실기 준비\c-lang\c-lang\Array.c(12,7):
+      'floatArray' 선언을 참조하십시오.
+  
+C:\Users\heongyu\Desktop\정보 처리기사 실기 준비\c-lang\c-lang\Array.c(17,6): error C2372: 'stringArray': 재정의. 간접 참조 형식이 다릅니다.
+      C:\Users\heongyu\Desktop\정보 처리기사 실기 준비\c-lang\c-lang\Array.c(16,7):
+      'stringArray' 선언을 참조하십시오.
+  
+C:\Users\heongyu\Desktop\정보 처리기사 실기 준비\c-lang\c-lang\bool.c(9,3): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\heongyu\Desktop\정보 처리기사 실기 준비\c-lang\c-lang\pointer.c(8,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\heongyu\Desktop\정보 처리기사 실기 준비\c-lang\c-lang\pointer.c(8,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\heongyu\Desktop\정보 처리기사 실기 준비\c-lang\c-lang\pointer.c(9,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\heongyu\Desktop\정보 처리기사 실기 준비\c-lang\c-lang\pointer.c(9,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+  연산자 기출문제.c
+  코드를 생성하고 있습니다...

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\heongyu\\Desktop\\\uC815\uBCF4 \uCC98\uB9AC\uAE30\uC0AC \uC2E4\uAE30 \uC900\uBE44\\c-lang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3876E726-E0DF-4A55-93C5-C5ABD7552129}|c-lang\\c-lang.vcxproj|C:\\Users\\heongyu\\Desktop\\\uC815\uBCF4 \uCC98\uB9AC\uAE30\uC0AC \uC2E4\uAE30 \uC900\uBE44\\c-lang\\c-lang\\pointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3876E726-E0DF-4A55-93C5-C5ABD7552129}|c-lang\\c-lang.vcxproj|solutionrelative:c-lang\\pointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pointer.c",
+              "DocumentMoniker": "C:\\Users\\heongyu\\Desktop\\\uC815\uBCF4 \uCC98\uB9AC\uAE30\uC0AC \uC2E4\uAE30 \uC900\uBE44\\c-lang\\c-lang\\pointer.c",
+              "RelativeDocumentMoniker": "c-lang\\pointer.c",
+              "ToolTip": "C:\\Users\\heongyu\\Desktop\\\uC815\uBCF4 \uCC98\uB9AC\uAE30\uC0AC \uC2E4\uAE30 \uC900\uBE44\\c-lang\\c-lang\\pointer.c",
+              "RelativeToolTip": "c-lang\\pointer.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-05T11:18:39.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
