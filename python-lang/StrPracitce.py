@@ -1,0 +1,23 @@
+s = "Hello, World"
+print(s.lower())
+print(s.upper())
+print(s.split(','))
+print(','.join(['Hello', 'World!']))
+print(s.replace('World', 'Python'))
+print(s.find('World'))
+print(s.index(','))
+print(s.capitalize()) 
+print(s.casefold())
+print(s.count('o'))
+print(s.endswith('!'))
+print("123".isdigit())
+print(" Hello".lstrip())
+print(s.partition(','))
+print(s.swapcase())
+print()
+s_lines = "Hello\nWorld"
+print(s_lines.splitlines())
+print(s.startswith('Hello'))
+print(s.title())
+print("42".zfill(5))
+
